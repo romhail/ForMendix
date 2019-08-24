@@ -19,17 +19,20 @@
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/22/2019"
+         "dueDate":"09/22/2019",
+         "categoryName":"test"
       },
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/25/2019"
+         "dueDate":"09/25/2019",
+         "categoryName":"test"
       },
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/30/2019"
+         "dueDate":"09/30/2019",
+         "categoryName":"test"
       }
    ]
 }
