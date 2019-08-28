@@ -3,36 +3,29 @@
       {
          "taskName":"import Task 1",
          "dueDate":"08/30/2019",
-         "notes":"This is for Test",
-         "assignToEmployee":"",
-         "categoryName":""
+         "notes":"This is for Test"  
       },
       {
          "taskName":"import Task 2",
          "dueDate":"08/22/2019",
-         "notes":"This is for Test2",
-         "assignToEmployee":"",
-         "categoryName":"test"
+         "notes":"This is for Test2"
       }
    ],
    "importtask4project":[
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/22/2019",
-         "categoryName":"test"
+         "dueDate":"09/22/2019"         
       },
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/25/2019",
-         "categoryName":"test"
+         "dueDate":"09/25/2019"        
       },
       {
          "taskName":"tsk1",
          "notes":"notes1",
-         "dueDate":"09/30/2019",
-         "categoryName":"test"
+         "dueDate":"09/30/2019"        
       }
    ]
 }
